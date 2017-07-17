@@ -1,0 +1,5 @@
+youwe_example:
+    resource: "@youweExampleBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
